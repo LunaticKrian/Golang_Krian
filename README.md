@@ -26,7 +26,7 @@
             fmt.Printf("%d天后放假 === %d周%d天后放假", days, week, day)
         }
 
-<img src="images/顺序流程控制.png" width="1200px">
+<img src="https://github.com/LunaticKrian/Golang_Krian/blob/master/images/顺序流程控制.png" width="1200px">
 
 ### 2.分支控制：
 
